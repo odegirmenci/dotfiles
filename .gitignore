@@ -5,4 +5,4 @@
 !.gitignore
 
 # Tmux
-#!.tmux.conf
+!.tmux.conf
