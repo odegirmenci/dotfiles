@@ -7,3 +7,7 @@
 # Tmux
 !.tmux.conf
 
+#Alacritty
+!.config/
+!.config/alacritty/
+!.config/alacritty/**
