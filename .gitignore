@@ -1,0 +1,8 @@
+# Default: ignore everything
+*
+
+# Git
+!.gitignore
+
+# Tmux
+#!.tmux.conf
